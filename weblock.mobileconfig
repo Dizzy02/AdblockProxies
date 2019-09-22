@@ -22,7 +22,7 @@
 			<key>ProxyPACFallbackAllowed</key>
 			<false/>
 			<key>ProxyPACURL</key>
-			<string>PUT YOUR WEBLOCK URL HERE</string>
+			<string>http://wl.is/xef6rQ.js</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
 		</dict>
